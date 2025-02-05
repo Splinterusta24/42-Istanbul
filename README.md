@@ -1,2 +1,2 @@
-# 42-stanbul
+# 42-Istanbul
 42 İstanbul Projelerim
